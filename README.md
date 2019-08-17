@@ -8,3 +8,9 @@ The project is a survival game. The player is represented by a green circle and 
 
 
 ![](atestat-dodge.gif)
+
+##Usage
+
+* With mouse click over buttons (Play, Credits, Exit)
+* With arrows keys or WASD control the player
+* Hold Spacebar down to slow down the player (for more precise movements)

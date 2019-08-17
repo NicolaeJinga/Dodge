@@ -1,5 +1,5 @@
 # Dodge (May 2014)
-Project for 12th grade exam made with C++ with SFML. Rebuilt with SFML 2.5.1.
+Project for 12th grade exam made with C++ with SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 Dodge enemies and collect points. Survival style game.
 

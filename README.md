@@ -1,9 +1,10 @@
-# atestat-dodge (May 2014)
-Project for 12th grade exam in C++ with SFML. 
+# Dodge (May 2014)
+Project for 12th grade exam made with C++ with SFML. Rebuilt with SFML 2.5.1.
 
 Dodge enemies and collect points. Survival style game.
 
-Rebuilt with SFML 2.5.1.
+##Project Description
+The project is a survival game. The player is represented by a green circle and must collect teal circles to increase points while avoiding enemies marked by yellow, orange and red circles which bounce around the arena.
 
-Gameplay presentation:
+
 ![](atestat-dodge.gif)
